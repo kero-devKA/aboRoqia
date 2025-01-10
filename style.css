@@ -7,10 +7,10 @@ body{
 }
 h1{
     text-align: center;
-    width: 300px;
+    width: 350px;
     height: 40px;
     position: absolute;
-    left: calc(50% - (300px / 2));
+    left: calc(50% - (350px / 2));
     top: calc(30% - 20px);
 }
 audio{
