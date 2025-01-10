@@ -1,0 +1,18 @@
+*{
+    padding: 00;
+    box-sizing: border-box;
+}
+body{
+    direction: rtl;
+}
+h1{
+    text-align: center;
+    width: 300px;
+    height: 40px;
+    position: absolute;
+    left: calc(50% - (300px / 2));
+    top: calc(30% - 20px);
+}
+audio{
+    display: none;
+}
